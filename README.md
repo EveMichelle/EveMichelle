@@ -16,7 +16,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 
-Hey! I'm **Eve Michelle** — a Junior Data Scientist based in 📍 **Nairobi, Kenya.**
+Hey!👋 I'm **Eve Michelle** — a Junior Data Scientist based in 📍 **Nairobi, Kenya.**
 
 I'm not your typical data scientist. I came into tech through **people** — years spent as a counselling psychologist, a public health field researcher, and an aviation operations specialist. That background gives me something rare: I don't just analyze data, I understand the **humans behind it.**
 

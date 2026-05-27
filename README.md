@@ -6,7 +6,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Python+%7C+ML+%7C+NLP+%F0%9F%93%8A;Aviation+Safety+Analyst+%E2%9C%88%EF%B8%8F;Counselling+Psychology+%2B+Data+Science+%F0%9F%A7%A0;Building+insights+that+understand+humans;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Python+%7C+ML+%7C+NLP;Aviation+Safety+Analyst;Counselling+Psychology+%2B+Data+Science;Nairobi%2C+Kenya)](https://git.io/typing-svg)
+font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Python+%7C+ML+%7C+NLP+%F0%9F%93%8A;Aviation+Safety+Analyst+%E2%9C%88%EF%B8%8F;Counselling+Psychology+%2B+Data+Science+%F0%9F%A7%A0;Building+insights+that+understand+humans;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 

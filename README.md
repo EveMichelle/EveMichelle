@@ -6,8 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Python+%7C+ML+%7C+NLP;Aviation+Safety+Analyst;Counselling+Psychology+%2B+Data+Science;Nairobi%2C+Kenya)](https://git.io/typing-svg)
-font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Python+%7C+ML+%7C+NLP+%F0%9F%93%8A;Aviation+Safety+Analyst+%E2%9C%88%EF%B8%8F;Counselling+Psychology+%2B+Data+Science+%F0%9F%A7%A0;Building+insights+that+understand+humans;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Python+%7C+ML+%7C+NLP;Aviation+Safety+Analyst;Counselling+Psychology+%2B+Data+Science;Building+insights+that+understand+humans;Based+in+Nairobi%2C+Kenya" alt="Typing SVG" />
 
 </div>
 
@@ -17,11 +16,11 @@ font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=65
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 
-Hey!😊 I'm **Eve Michelle** — a Junior Data Scientist based in 📍 **Nairobi, Kenya.**
+Hey! 😊 I'm **Eve Michelle** — a Junior Data Scientist based in 📍 **Nairobi, Kenya.**
 
 I'm not your typical data scientist. I came into tech through **people** — years spent as a counselling psychologist, a public health field researcher, and an aviation operations specialist. That background gives me something rare: I don't just analyze data, I understand the **humans behind it.**
 
-🎓 Currently completing my **Data Science certification at Flatiron School**, having also trained in Data Analytics at **Moringa School.**
+🎓 Currently completing my **Data Science certification at Flatiron School** (Phase 5 ✅), having also trained in Data Analytics at **Moringa School.**
 
 <br/>
 
@@ -90,7 +89,7 @@ I went from sitting with people in prisons and hospitals → predicting behaviou
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EveMichelle&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=EveMichelle&theme=radical&hide_border=true" />
 
 </div>
 

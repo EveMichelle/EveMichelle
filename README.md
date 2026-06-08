@@ -116,7 +116,7 @@ I went from sitting with people in prisons and hospitals → predicting behaviou
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-EveMichelle-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EveMichelle)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eve--michelle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eve-michelle)
 
 </div>
 
